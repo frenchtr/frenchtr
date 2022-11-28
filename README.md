@@ -18,6 +18,7 @@
 - Other Unity projects
 
 # 📫 How to reach me
+- hire.travis.french@gmail.com
 - https://www.linkedin.com/in/frenchtr/
 
 <!---
