@@ -1,19 +1,23 @@
-# 👋 Hi, I’m Travis:
+# 👋 Hi, I’m Travis
 - Professional background in IT infrastructure & DevOps
 - Game developer since ~2004 (started in Game Maker 6.0)
-# 👀 I’m interested in:
+
+# 👀 I’m interested in
 - Game development
 - Automation & scripting
 - Agile / DevOps practices
-# 🌱 I’m currently learning:
+
+# 🌱 I’m currently learning
 - New things about Unity every day
 - Version control the Plastic SCM way (from a Git background, obviously)
 - How to build & manage a team
 - To publish my damn work
-# 💞️ I’m looking to collaborate on:
+
+# 💞️ I’m looking to collaborate on
 - Game projects (primarily in Unity)
 - Other Unity projects
-# 📫 How to reach me:
+
+# 📫 How to reach me
 - https://www.linkedin.com/in/frenchtr/
 
 <!---
