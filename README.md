@@ -4,14 +4,16 @@
 
 # 👀 I’m interested in
 - Game development
+- Design thinking
+- Technical design
 - Automation & scripting
-- Agile / DevOps practices
+- Agile & DevOps
 
 # 🌱 I’m currently learning
-- New things about Unity every day
-- Version control the Plastic SCM way (from a Git background, obviously)
-- How to build & manage a team
-- To publish my damn work
+- New things every day
+- BA in Game Design @ DigiPen Institute of Technology
+- How to build and lead a team
+- How to build tools for non-programmers
 
 # 💞️ I’m looking to collaborate on
 - Game projects (primarily in Unity)
