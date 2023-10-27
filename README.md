@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Travis
 - Professional background in IT infrastructure & DevOps
 - Game developer since ~2004 (started in Game Maker 6.0)
+- I like making tools for people
 
 # 👀 I’m interested in
 - Game development
@@ -16,8 +17,9 @@
 - How to build tools for non-programmers
 
 # 💞️ I’m looking to collaborate on
-- Game projects (primarily in Unity)
+- Game projects (preferably in Unity)
 - Other Unity projects
+- Any supporting tools & libraries
 
 # 📫 How to reach me
 - hire.travis.french@gmail.com
