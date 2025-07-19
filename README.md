@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Travis
-- Professional background in IT infrastructure & DevOps
-- Game developer since ~2004 (started in Game Maker 6.0)
-- I like making tools for people
+- I used to be a [Computer Sorcerer](https://en.wikipedia.org/wiki/Information_technology)
+- Game developer since ~2004 (started in [Game Maker 6.0](https://gamemaker.io/))
+- I like making games & tools for people
 
 # 👀 I’m interested in
 - Game development
@@ -11,13 +11,11 @@
 - Agile & DevOps
 
 # 🌱 I’m currently learning
-- New things every day
-- BA in Game Design @ DigiPen Institute of Technology
-- How to build and lead a team
-- How to build tools for non-programmers
+- [BA in Game Design](https://www.digipen.edu/academics/game-design-and-development-degrees/ba-in-game-design) @ [DigiPen Institute of Technology](https://www.digipen.edu/)
+- Building and leading a team
 
 # 💞️ I’m looking to collaborate on
-- Game projects (preferably in Unity)
+- Game projects (preferably in [Unity](https://unity.com/))
 - Other Unity projects
 - Any supporting tools & libraries
 
