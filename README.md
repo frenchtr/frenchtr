@@ -15,7 +15,7 @@
 - Building and leading a team
 
 # 💞️ I’m looking to collaborate on
-- Game projects (preferably in [Unity](https://unity.com/))
+- Game projects (especially in [Unity](https://unity.com/))
 - Other Unity projects
 - Any supporting tools & libraries
 
