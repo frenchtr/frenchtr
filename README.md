@@ -15,9 +15,7 @@
 - Building and leading a team
 
 # 💞️ I’m looking to collaborate on
-- Game projects (especially in [Unity](https://unity.com/))
-- Other Unity projects
-- Any supporting tools & libraries
+- Game projects
 
 # 📫 How to reach me
 - hire.travis.french@gmail.com
